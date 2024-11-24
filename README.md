@@ -1,6 +1,5 @@
 # Olá, eu sou o Anthony! 👋
 
-
 ## 🌐 Minhas Redes Sociais
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anthony.sm_/)
@@ -11,4 +10,7 @@
 ## 📊 Minhas Estatísticas
 
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyysm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyysm&layout=compact&theme=radical)
+
+
+
