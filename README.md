@@ -1,10 +1,5 @@
 # Olá, eu sou o Anthony! 👋
 
-Sou estudante de Sistemas de Informação, tenho 22 anos e estou em busca de oportunidades para crescer como desenvolvedor. 
-
-Atualmente, vivo com minha família em Petrolândia-PE, uma cidade localizada no sertão de Pernambuco. Petrolândia enfrenta desafios
-significativos em termos de oportunidades profissionais na área de tecnologia. Apesar dessas limitações, tenho me dedicado ao
-aprendizado e ao desenvolvimento de habilidades para superar essas barreiras e buscar oportunidades em um cenário mais amplo.
 
 ## 🌐 Minhas Redes Sociais
 
@@ -16,3 +11,4 @@ aprendizado e ao desenvolvimento de habilidades para superar essas barreiras e b
 ## 📊 Minhas Estatísticas
 
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyysm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysm&layout=compact)
