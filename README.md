@@ -1,13 +1,28 @@
-# Olá, eu sou o Anthony! 👋
+## 🌐 My Social Networks
 
-## 🌐 Minhas Redes Sociais
+<a href="https://www.instagram.com/anthony.sm_/">
+  <img 
+    src="https://img.shields.io/badge/Instagram-1A1B27?style=flat-square&logo=instagram&logoColor=70A4FC" 
+    alt="Instagram" 
+    height="24" />
+</a>
+<br />
+<a href="https://www.linkedin.com/in/anthonydsmartins/">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-1A1B27?style=flat-square&logo=linkedin&logoColor=70A4FC" 
+    alt="LinkedIn" 
+    height="24" />
+</a>
+<br />
+<a href="mailto:santosmsrtins015@gmail.com">
+  <img 
+    src="https://img.shields.io/badge/Gmail-1A1B27?style=flat-square&logo=gmail&logoColor=70A4FC" 
+    alt="Gmail" 
+    height="24" />
+</a>
 
-- [![Instagram](https://img.shields.io/badge/Instagram-141321?style=flat-square&logo=instagram&logoColor=fe428e)](https://www.instagram.com/anthony.sm_/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-141321?style=flat-square&logo=linkedin&logoColor=fe428e)](https://www.linkedin.com/in/anthonydsmartins/)
-- [![Gmail](https://img.shields.io/badge/Gmail-141321?style=flat-square&logo=gmail&logoColor=fe428e)](mailto:santosmsrtins015@gmail.com)
 
-
-## 🚀 Tecnologias
+## 🚀 Technologies
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -39,13 +54,13 @@
 </p>
 
 
-## 📊 Minhas Estatísticas
+## 📊 Statistics
 
 <div>
   <a href="https://github.com/anthonyysm">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=anthonyysm&show_icons=true&theme=radical" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Anthonyysm&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anthonyysm">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyysm&layout=compact&theme=radical" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysm&layout=compact&theme=tokyonight" />
   </a>
 </div>
