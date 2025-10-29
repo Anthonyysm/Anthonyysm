@@ -38,9 +38,9 @@
 
 <div>
   <a href="https://github.com/anthonyysm">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=anthonyysm&show_icons=true&theme=radical" />
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=anthonyysm&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anthonyysm">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyysm&layout=compact&theme=radical" />
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyysm&layout=compact&theme=radical" />
   </a>
 </div>
