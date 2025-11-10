@@ -1,25 +1,11 @@
 ## 🌐 My Social Networks
 
-<a href="https://www.instagram.com/anthony.sm_/">
-  <img 
-    src="https://img.shields.io/badge/Instagram-1A1B27?style=flat-square&logo=instagram&logoColor=70A4FC" 
-    alt="Instagram" 
-    height="24" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-1A1B27?style=flat-square&logo=instagram&logoColor=70A4FC)](https://www.instagram.com/anthony.sm_/)
 <br />
-<a href="https://www.linkedin.com/in/anthonydsmartins/">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-1A1B27?style=flat-square&logo=linkedin&logoColor=70A4FC" 
-    alt="LinkedIn" 
-    height="24" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B27?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthonydsmartins/)
 <br />
-<a href="mailto:santosmsrtins015@gmail.com">
-  <img 
-    src="https://img.shields.io/badge/Gmail-1A1B27?style=flat-square&logo=gmail&logoColor=70A4FC" 
-    alt="Gmail" 
-    height="24" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-1A1B27?style=flat-square&logo=gmail&logoColor=70A4FC)](mailto:santosmsrtins015@gmail.com)
+
 
 
 ## 🚀 Technologies
@@ -30,9 +16,10 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-ccfcd7?style=for-the-badge&logo=django&logoColor=green)](https://www.django-rest-framework.org/)
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-1F2937?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 
 ## 📊 Statistics
 
