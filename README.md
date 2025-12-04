@@ -25,9 +25,9 @@
 
 <div>
   <a href="https://github.com/anthonyysm">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=anthonyysm&show_icons=true&theme=radical" />
+    <img style="height: 250px;" src="https://gitmystat.vercel.app/user?theme=transparent&username=Anthonyysm" />
   </a>
   <a href="https://github.com/anthonyysm">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyysm&layout=compact&theme=radical" />
+    <img style="height: 250px;" src="https://gitmystat.vercel.app/top?theme=transparent&username=Anthonyysm&layout=default" />
   </a>
 </div>
