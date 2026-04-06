@@ -17,7 +17,7 @@
 [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-ccfcd7?style=for-the-badge&logo=django&logoColor=green)](https://www.django-rest-framework.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-1F2937?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com)
