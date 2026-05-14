@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-1A1B27?style=flat-square&logo=instagram&logoColor=70A4FC)](https://www.instagram.com/anthony.sm_/)
 <br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B27?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anthonydsmartins/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1B27?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydsmartins/)
 <br />
 [![Gmail](https://img.shields.io/badge/Gmail-1A1B27?style=flat-square&logo=gmail&logoColor=70A4FC)](mailto:santosmsrtins015@gmail.com)
 
@@ -18,6 +18,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-1F2937?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com)
