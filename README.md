@@ -25,9 +25,14 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://antigravity.dev/)
+[![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
+[![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
 
 ## 📊 Statistics
 
+<div align="center">
 <div>
   <a href="https://github.com/anthonyysm">
     <img style="height: 250px;" src="https://gitmystat.vercel.app/user?theme=transparent&username=Anthonyysm" />
@@ -36,3 +41,8 @@
     <img style="height: 250px;" src="https://gitmystat.vercel.app/top?theme=transparent&username=Anthonyysm&layout=default" />
   </a>
 </div>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anthonyysm&theme=transparent&hide_border=true" />
+</div>
+
